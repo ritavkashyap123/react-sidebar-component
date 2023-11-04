@@ -1,0 +1,38 @@
+{
+  "name": "react-sidebar-component",
+  "version": "1.0.0",
+  "description": "This is a responsive sidebar component",
+  "main": "./build/index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.11.0",
+    "react-router-dom": "^6.18.0",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ritavkashyap123/react-sidebar-component.git"
+  },
+  "keywords": [
+    "sidebar",
+    "react-sidebar",
+    "react-sidebar-component"
+  ],
+  "author": "Ritav Kashyap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ritavkashyap123/react-sidebar-component/issues"
+  },
+  "homepage": "https://github.com/ritavkashyap123/react-sidebar-component#readme",
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  }
+}
